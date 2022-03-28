@@ -6,7 +6,9 @@
    
    ##2.作业二
    
-   [作业二链接](geo_json.html)(https//geo_line_x.html)(geo_world.html)
+   [作业二链接](geo_json.html)
+   [作业二链接](geo_line_x.html)
+   [作业二链接（世界地图）](geo_world.html)
 
    ##3.作业三
    
